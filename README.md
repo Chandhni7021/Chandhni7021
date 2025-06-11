@@ -27,13 +27,14 @@ Available for remote, hybrid, or on-site roles in Europe(student visa holder).
 
 🚀 Recent Projects
 
-- Zexa AI – A voice and text-based desktop AI assistant  
+* Zexa AI – A voice and text-based desktop AI assistant
   `Python, speech recognition, task automation, OpenAI`
 
-- SanoGenie – An AI-powered platform for early disease prediction and personalized dietary recommendations based on user symptoms  
-  `flask, pandas, scikit-learn, machine learning`
+* SanoGenie – An AI-powered platform for early disease prediction and personalized dietary recommendations based on user symptoms
+  `Flask, pandas, scikit-learn, machine learning`
 
-👉 Check out my pinned repositories below for code samples!
+* CardDefender – An AI-powered tool for detecting fraudulent credit card transactions using anomaly detection techniques
+  `Streamlit, Isolation Forest, scikit-learn, data visualization`
 
 📈 Currently Exploring
 
