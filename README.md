@@ -1,6 +1,6 @@
 👋 Hi, I'm Chandini
 
-🎓 Master's Student in Artificial Intelligence(Research Oriented) | 💡 AI Enthusiast | 🤝 Open to Opportunities
+🎓 Master's Student in Artificial Intelligence(Research Oriented), Germany | 💡 AI Enthusiast | 🤝 Open to Opportunities
 
 I'm currently pursuing my Master's in Artificial Intelligence in Germany(Brandenburg University of Technology (BTU) Cottbus–Senftenberg) after completing a B.Tech in AI and Data Science. I’m passionate about building impactful AI solutions and constantly enhancing my technical skills through hands-on projects and collaborations.
 
